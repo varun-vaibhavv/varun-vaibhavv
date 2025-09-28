@@ -19,8 +19,6 @@
 * 👯 Looking to collaborate on **open source & research projects**  
 * 🤝 Open to **internship and learning opportunities**
 
-<hr/>
-
 <p align="center">
   <img alt="GIF" src="https://github.com/varun-vaibhavv/Home/blob/main/hadder.gif?raw=true" width="900"/> 
 </p>
@@ -31,25 +29,21 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,r,java" />
 </p>
-<hr/>
 
 #### Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,expressjs" />
 </p>
-<hr/>
 
 #### Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
-<hr/>
 
 #### Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,latex,replit,pycharm" />
 </p>
-<hr/>
 
 ### 📊 Data Science Tools
 <p align="center">
@@ -58,6 +52,7 @@
   <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/>
   <img src="https://skillicons.dev/icons?i=matlab" title="MATLAB"/>
 </p>
+
 <hr/>
 
 ### 📊 GitHub Stats
