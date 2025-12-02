@@ -30,7 +30,7 @@
 ### 🛠️ Skills
 #### Programming & Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,java" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,cpp,r" />
 </p>
 
 <hr/>
@@ -44,14 +44,14 @@
 
 #### Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,mssql,postgresql" />
 </p>
 
 <hr/>
 
 #### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode,latex,replit,pycharm" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,replit,pycharm,linux,docker,latex" />
 </p>
 
 <hr/>
