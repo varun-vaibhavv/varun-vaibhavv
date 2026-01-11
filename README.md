@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Varun</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | Open Source Contributor | Lifelong Learner</h3>
+<h3 align="center">🚀 Aspiring Decision Scientist (Operations Research & Optimization core | ML, DS & AI as tools) | Open Source Contributor | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="80"/>
@@ -14,10 +14,10 @@
 ## 🌟 About Me  
 - 🌍 Currently exploring the world of **Data Science & Machine Learning**  
 - ✉️ Reach me at: **[varun7058@gmail.com](mailto:varun7058@gmail.com)**  
-- 💡 Skilled in **Python, C/C++, Java (OOP), SQL**  
-- 🤖 Interested in **OR + Optimization, Research & Open Source**  
-- 🚀 Open to **internships, research collaborations, and real-world projects**  
-- 📘 Always learning, building, and experimenting!
+- 💡 Skilled in **Python,SQL, C/C++, Java (OOP)**  
+- 🤖 Interested in **OR + Optimization, Data-Driven Decision Making**
+- 🚀 Open to **internships, research collaborations, and real-world projects**
+- 📘 Learning focus: **OR tools, Machine Learning, AI, Data Warehousing**
 
 <p align="center">
   <img src="https://github.com/varun-vaibhavv/Home/blob/main/hadder.gif?raw=true" width="900"/>
