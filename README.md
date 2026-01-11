@@ -15,7 +15,7 @@
 - 🌍 Currently exploring the world of **Data Science & Machine Learning**  
 - ✉️ Reach me at: **[varun7058@gmail.com](mailto:varun7058@gmail.com)**  
 - 💡 Skilled in **Python, C/C++, Java (OOP), SQL**  
-- 🤖 Interested in **AI, Deep Learning, Research & Open Source**  
+- 🤖 Interested in **OR + Optimization, Research & Open Source**  
 - 🚀 Open to **internships, research collaborations, and real-world projects**  
 - 📘 Always learning, building, and experimenting!
 
@@ -29,38 +29,34 @@
 
 ### 🔹 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,r" />
-</p>
-
----
-
-### 🔹 Backend Development  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
 </p>
 
 ---
 
 ### 🔹 Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mssql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mssql,mongodb" />
 </p>
 
 ---
 
 ### 🔹 Tools & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,replit,pycharm,docker,latex" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,pycharm,docker,latex" />
 </p>
 
 ---
 
-## 📊 Data Science & ML Tools  
+## 📊 OR, Data Science Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" title="Jupyter Notebook"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/>
-  <img src="https://skillicons.dev/icons?i=matlab" title="MATLAB"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" title="Numpy"/>
+  <img src="https://skillicons.dev/icons?i=matlab" title="Panda"/>
+  <img src="https://skillicons.dev/icons?i=matlab" title="Matplotlib"/>
+  <img src="https://skillicons.dev/icons?i=matlab" title="PuLp"/>
+  <img src="https://skillicons.dev/icons?i=matlab" title="SciPy"/>
 </p>
 
 ---
