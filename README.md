@@ -12,9 +12,9 @@
 ---
 
 ## 🌟 About Me  
-- 🌍 Currently exploring the world of **Data Science & Machine Learning**  
+- 🌍 Currently exploring the world of **Optimization, Data Science & Machine Learning**  
 - ✉️ Reach me at: **[varun7058@gmail.com](mailto:varun7058@gmail.com)**  
-- 💡 Skilled in **Python,SQL, C/C++, Java (OOP)**  
+- 💡 Skilled in **Python,SQL, C, Java (OOP)**  
 - 🤖 Interested in **OR + Optimization, Data-Driven Decision Making**
 - 🚀 Open to **internships, research collaborations, and real-world projects**
 - 📘 Learning focus: **OR tools, Machine Learning, AI, Data Warehousing**
@@ -29,7 +29,7 @@
 
 ### 🔹 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+  <img src="https://skillicons.dev/icons?i=python,c,java" />
 </p>
 
 ---
