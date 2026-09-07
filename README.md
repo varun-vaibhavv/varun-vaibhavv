@@ -33,7 +33,7 @@ I am particularly interested in translating **real-world decision problems into 
 
 ## 🔬 Research Interests
 
-### Optimization & Operations Research
+### 📐 Optimization & Operations Research
 
 * Linear Programming
 * Mathematical Programming
@@ -41,7 +41,7 @@ I am particularly interested in translating **real-world decision problems into 
 * Decision Models
 * Computational Operations Research
 
-### Statistics & Data Analysis
+### 📊 Statistics & Data Analysis
 
 * Statistical Modeling
 * Least Squares & Curve Fitting
@@ -53,17 +53,41 @@ I am particularly interested in translating **real-world decision problems into 
 
 ## 🧰 Technical Toolkit
 
-### Programming & Scientific Computing
+### 🐍 Scientific Computing
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/PuLP-2C3E50?style=flat"/>
 </p>
 
-### Research & Development Environment
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</p>
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"/>
+</p>
+
+### 📊 Analytical Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+**Excel:** Data Analysis • Modeling • PivotTables • Advanced Formulas • Solver
+
+### 🔬 Research & Development
 
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
@@ -79,12 +103,12 @@ I am particularly interested in translating **real-world decision problems into 
 
 Currently strengthening my foundations in:
 
-* 📐 Mathematical Optimization & Operations Research
-* 📊 Probability & Statistics
-* 🧮 Linear Algebra & Numerical Computation
-* 💻 Algorithms & Computational Problem Solving
+* 📐 **Mathematical Optimization & Operations Research**
+* 📊 **Probability & Statistics**
+* 🧮 **Linear Algebra & Numerical Computation**
+* 💻 **Algorithms & Computational Problem Solving**
 
-I am especially interested in understanding **why algorithms work**, their mathematical structure, computational properties, and how they can be applied to real decision problems.
+I am particularly interested in understanding **why algorithms work**, their mathematical structure, computational properties, and how they can be applied to real decision problems.
 
 ---
 
@@ -96,24 +120,25 @@ My repositories focus on applying mathematical and computational methods to acad
 | -------------------------- | ---------------------------------------------------------------- |
 | 📐 **Optimization**        | Linear programming, mathematical models, optimization algorithms |
 | 📊 **Statistics**          | Least squares, curve fitting, statistical experiments            |
+| 🗄️ **Data & Databases**   | Data analysis, SQL, relational databases                         |
 | 🧮 **Numerical Computing** | Numerical methods and computational experiments                  |
 | 🧠 **Algorithms**          | Algorithm implementations and problem solving                    |
 | 🎓 **Academic Projects**   | Coursework and research-oriented projects                        |
 
-> **Principle:** Reproducible code, clear mathematical formulation, documented methodology, and interpretable results.
+> **Research principle:** Clear mathematical formulation • Reproducible implementation • Documented methodology • Interpretable results
 
 ---
 
-## 🎯 Problem-Solving Approach
+## 🎯 How I Approach Problems
 
 ```text
 Real-World Decision Problem
             ↓
     Mathematical Formulation
             ↓
-   Optimization / Statistical Model
+ Optimization / Statistical Model
             ↓
-   Algorithm / Computational Method
+ Algorithm / Computational Method
             ↓
       Numerical Experiment
             ↓
@@ -122,14 +147,14 @@ Real-World Decision Problem
            Decision
 ```
 
-I am interested in the complete process—from **problem formulation and mathematical structure to computational implementation and analysis**.
+I am interested in the complete process—from **problem formulation and mathematical structure to computational implementation, experimentation, and analysis**.
 
 ---
 
 ## 📫 Connect
 
 <p>
-  <a href="mailto:varun.vaibhavv@gmail.com">
+  <a href="mailto:varun7058@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/varun-vaibhavv">
@@ -143,5 +168,5 @@ I am interested in the complete process—from **problem formulation and mathema
 ---
 
 <p align="center">
-  <i>Interested in mathematics, optimization, algorithms, and intelligent decision-making.</i>
+  <i>Mathematics • Optimization • Algorithms • Decision-Making</i>
 </p>
